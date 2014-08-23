@@ -1,0 +1,17 @@
+/* -----------------------------------------
+   Font-face:
+----------------------------------------- */
+@font-face{ 
+font-family:"H_R";
+src: url('fonts/Helvetica.eot'); 
+src: 
+url('fonts/Helvetica.woff') format('woff'), 
+url('fonts/Helvetica.ttf') format('truetype'); 
+}
+@font-face{ 
+font-family:"H_B";
+src: url('fonts/HelveticaBold.eot'); 
+src: 
+url('fonts/HelveticaBold.woff') format('woff'), 
+url('fonts/HelveticaBold.ttf') format('truetype'); 
+}
