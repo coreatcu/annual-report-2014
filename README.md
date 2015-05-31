@@ -1,5 +1,4 @@
 #CORE's Annual Report for 2013-2014
-=============
 
 The report is [live](http://2013.coreatcu.com)! Please report any errors/issues.
 
